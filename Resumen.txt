@@ -1,0 +1,3 @@
+Practica CSS en formularios
+
+Utilize algunas variables de ejemplos, medidas en REM y Linear-gradiants para los colores
